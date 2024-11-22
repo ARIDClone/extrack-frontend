@@ -1,0 +1,8 @@
+{
+  "authUrl": "https://account.kalbeinternational.com/#/auth",
+  "serviceUrl": "https://account.kalbeinternational.com",
+  "clientId": "2697b1c2-92a3-447b-9975-107aafdfa6ed",
+  "authKey": "clt2c4eux000ik14cnh6gg495",
+  "redirectTo": "http://localhost:5173/#/callback",
+  "domain": "http://localhost:5173/"
+}
